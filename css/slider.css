@@ -25,12 +25,11 @@
   }
 }
 
-/* @media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
   .slider {
-    width: 528px;
-    margin-left: auto;
+    margin-left: 0;
   }
-} */
+}
 
 .slider-list {
   overflow: hidden;
