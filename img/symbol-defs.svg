@@ -1,0 +1,25 @@
+<svg aria-hidden="true" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="cross">
+<rect x="0.715698" y="29" width="4" height="4" transform="rotate(-45 0.715698 29)" fill-opacity="0.25"/>
+<rect x="26.1716" y="3.54413" width="4" height="4" transform="rotate(-45 26.1716 3.54413)" fill-opacity="0.25"/>
+<rect x="13.7766" y="41.3948" width="39.0578" height="4" transform="rotate(-45 13.7766 41.3948)"/>
+<rect x="26.9998" y="27" width="4" height="4"/>
+<rect x="41.3856" y="44.2142" width="39.0323" height="4" transform="rotate(-135 41.3856 44.2142)"/>
+<rect x="26.1716" y="54.4558" width="4" height="4" transform="rotate(-45 26.1716 54.4558)" fill-opacity="0.25"/>
+<rect x="51.6274" y="29" width="4" height="4" transform="rotate(-45 51.6274 29)" fill-opacity="0.25"/>
+</symbol>
+<symbol id="menu">
+<rect width="4" height="4" />
+<rect x="14" width="4" height="4" />
+<rect x="28" width="4" height="4" />
+<rect y="14" width="4" height="4" />
+<rect x="14" y="14" width="4" height="4" />
+<rect x="28" y="14" width="4" height="4" />
+<rect y="28" width="4" height="4" />
+<rect x="14" y="28" width="4" height="4" />
+<rect x="28" y="28" width="4" height="4" />
+</symbol>
+
+</defs>
+</svg>

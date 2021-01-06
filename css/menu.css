@@ -1,0 +1,80 @@
+.menu {
+  display: none;
+  position: absolute;
+  top: 74px;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+
+  background-color: #ffffff;
+}
+
+.menu.is-open {
+  display: block;
+}
+
+.menu__but {
+  display: inline-block;
+
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: 15px;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+}
+
+.menu__but.icon__menu {
+  fill: #4e254f;
+  display: block;
+}
+
+.menu__svg {
+  width: 40px;
+  height: 40px;
+}
+
+.menu__but:hover .icon__menu,
+.menu__but:focus .icon__menu {
+  fill: #9accc2;
+}
+
+.menu__but .icon__cross {
+  fill: #4e254f;
+  display: none;
+}
+
+.menu__but:hover .icon__cross,
+.menu__but:focus .icon__cross {
+  fill: #9accc2;
+}
+
+.menu__but.is-open .icon__cross {
+  display: block;
+}
+.menu__but.is-open .icon__menu {
+  display: none;
+}
+
+.nav {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+
+  font-size: 30px;
+  line-height: 1.33;
+}
+
+.nav__item:not(:last-child) {
+  margin-bottom: 32px;
+}
+
+.nav__link {
+  color: rgba(78, 37, 79, 0.25);
+}
+
+.nav__link--active {
+  color: #4e254f;
+}
